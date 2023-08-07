@@ -18,16 +18,14 @@ This is a simple GUI application built using Python and tkinter that allows you 
    pip install Pillow tk webptools
 
 3. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/image-format-conversion-app.git```
 
 4. Navigate to the project directory:
    ```bash
-   cd image-format-conversion-app```
+   cd image-format-conversion-app
 
 5. Run the app:
    ```bash
-   python app.py```
+   python app.py
 
 The GUI will open, allowing you to perform the following actions:
 - Click the "Open Images" button to select and display image files.
