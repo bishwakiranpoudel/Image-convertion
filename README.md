@@ -15,7 +15,7 @@ This is a simple GUI application built using Python and tkinter that allows you 
 
 2. Install the required Python packages using pip:
    ```bash
-   pip install Pillow tk webptools```
+   pip install Pillow tk webptools
 
 3. Clone this repository to your local machine:
    ```bash
